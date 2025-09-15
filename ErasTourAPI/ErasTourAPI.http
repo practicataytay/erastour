@@ -1,0 +1,6 @@
+@ErasTourAPI_HostAddress = http://localhost:5281
+
+GET {{ErasTourAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
